@@ -532,6 +532,7 @@ h6 {
 @media (max-height: 600px) {
   #hero {
     height: 110vh;
+    background: whitesmoke;
   }
 }
 
