@@ -14,6 +14,9 @@ With thoughtful use of JavaScript, we've incorporated interactive elements to en
 
 <img src="public/cliniqueDoukkala.png" alt="screenshot">
 
+## Demo link :
+🔗 <a href="https://elazzouzihassan.github.io/clinique-web-template/" target="_blank" rel="noopener noreferrer">CLINIQUE DOUKKALA</a>
+
 
 
 
