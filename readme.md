@@ -1,4 +1,4 @@
-# CLINIQUE DOUKKALA RESPONSIVE TEMPLATE, HTML/ CSS/ JAVASCRIPT/ BOOSTRAP.
+# RESPONSIVE TEMPLATE, HTML/ CSS/ JAVASCRIPT/ BOOSTRAP.
 
 This responsive web template has been designed and developed for Clinique Doukkala, an esteemed private hospital in El Jadida, seamlessly blends modern design with cutting-edge functionality. Crafted using HTML5, CSS3, JavaScript, and Bootstrap, the template ensures a dynamic user experience across devices and screen sizes.
 
