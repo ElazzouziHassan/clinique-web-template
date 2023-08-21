@@ -26,3 +26,7 @@ With thoughtful use of JavaScript, we've incorporated interactive elements to en
 ## Author
 
 [@ElazzouziHassan](https://github.com/ElazzouziHassan)
+
+## Support
+
+For support, email ezhassan.info@gmail.com 
